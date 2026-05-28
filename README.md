@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/only-one-for-me/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Only One For Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-one-for-me/) |
+| **Get License** | [License this song: Only One For Me](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/only-one-for-me/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `7a0b42032d68008cf726c6d93afd10b577bb6dfa9f037b20ebfcca7b26e2fa93` |
 | **Timestamp** | May 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
